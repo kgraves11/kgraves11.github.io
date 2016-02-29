@@ -1,0 +1,194 @@
+/*Kherin Graves*/
+
+
+body {
+    background-image: url("comptech.jpg");
+}
+
+
+body,html {
+margin: 0px;
+}
+
+body,html {
+padding: 0px
+}
+
+h2 {
+margin: 1em, 0.5em, 0
+}
+
+h2 {
+letter-spacing: 3px;
+}
+
+#container {
+width: 760px;
+}
+
+#container {
+margin: 0px auto 0px auto;
+}
+
+#container{
+background-color: #FFF;
+}
+
+#container {
+color: #000;
+}
+
+#container {
+border: 5px solid #57779D;
+}
+
+#container {
+font-family: "Trebuchet MS",Arial,sans-serif;
+}
+
+#container {
+font-size: .9em;
+}
+
+#container {
+line-height: 1.5em;
+}
+
+header {
+padding: 0;
+}
+
+header {
+height: 100px;
+}
+
+header {
+background-image: url("head.jpg");
+background-repeat: no-repeat;
+}
+
+header h1 {
+padding: 40px 0 8px 100px;
+}
+
+header h1 {
+margin: 0;
+}
+
+header h1 {
+letter-spacing: 3px;
+}
+
+nav ul {
+text-align: center;
+}
+
+nav ul {
+padding: 5px 0 5px 0;
+}
+
+nav ul {
+margin: 0;
+}
+
+nav ul {
+background-color: #57779D;
+}
+
+nav ul {
+color: #FFFFFF;
+}
+
+nav ul {
+font-family: "Helvetica",Arial,sans-serif;
+}
+
+nav a {
+padding: 5px 10px 5px 10px;
+}
+
+nav a {
+background-color: #57779D;
+}
+
+nav a {
+color: #FFFFFF;
+}
+
+nav a {
+text-decoration: none;
+}
+
+#current {
+color: #FFCC33;
+}
+
+#current {
+background-color: #57779D;
+}
+
+nav li {
+display:inline;
+}
+
+nav li {
+padding: 5px 0 5px 0;
+}
+
+nav li {
+border-right-style: solid;
+}
+
+nav li {
+border-right-width: 1px;
+}
+
+nav li {
+border-right-color: #FFFFFF;
+}
+
+nav li {
+font-weight: bold;
+}
+
+#first {
+border-left-style: solid;
+}
+
+#first {
+border-width: 1px;
+}
+
+#first {
+border-color: #FFFFFF;
+}
+
+#content {
+padding: 1em;
+}
+
+content p {
+padding: 0 2em 0 2em;
+}
+
+
+#noshow {
+display: none;
+}
+
+footer {
+text-align: center;
+}
+
+footer {
+border-top-style: solid;
+border-width: 5px;
+border-color: #57779D;
+}
+
+ul {
+list-style-type: square;
+}
+
+
+

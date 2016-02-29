@@ -1,0 +1,359 @@
+/*Kherin V. Graves*/
+
+* {
+padding: 0px; 
+}
+
+* {
+margin: 0px;
+}
+
+body {
+font-family: "Century Gothic",Arial,sans-serif;
+}
+
+body {
+font-size: 85%;
+}
+
+body {
+line-height: 1.5em;
+}
+
+h1 {
+padding: 1em;
+}
+
+h1 {
+font-size: 200%;
+}
+
+h1 {
+letter-spacing: 2px;
+}
+
+h1 {
+font-weight: lighter;
+}
+
+h2 {
+padding: 30px 35px 30px 10px;
+}
+
+
+h2 {
+font-size: 125%;
+}
+
+h2 {
+letter-spacing: 2px;
+}
+
+h2 {
+text-transform: uppercase;
+}
+
+h2 {
+color: #366;
+}
+
+h2 {
+background-image: url("smallbug.png");
+background-repeat: no-repeat;
+background-position: right center;
+}
+
+h2 {
+height: 2.5em;
+}
+
+a {
+text-decoration: none;
+}
+
+#container {
+width: 922px;
+}
+
+#container {
+margin: 0 auto 0 auto;
+}
+
+#container {
+border: width="1px" style="solid" #E2F2EC;
+}
+
+#banner {
+width: 902px;
+}
+
+#banner {
+height: 150px;
+}
+
+#banner {
+padding-right: 20px;
+}
+
+#banner {
+background-color: #fff; 
+background-repeat: no-repeat;
+}
+
+#banner {
+background-image: url("header.png");
+}
+
+#banner {
+color: #000;
+}
+
+nav {
+width: auto;
+}
+
+nav {
+padding: 0px;
+}
+
+nav {
+margin: 0;
+}
+
+nav {
+background-color: #7bb022;
+}
+
+nav {
+color: #000;
+}
+
+nav ul {
+list-style-type: none;
+}
+
+nav ul {
+height: 36px;
+}
+
+nav ul {
+text-transform: uppercase;
+}
+
+nav ul {
+font-size: .9em;
+}
+
+nav ul {
+font-weight: bold;
+}
+
+nav ul {
+font-family: "Helvetica",Arial,sans-serif;
+}
+
+nav ul {
+border-bottom: 4px solid #366;
+}
+
+nav ul {
+border-top: 1px solid #366;
+}
+
+
+nav li {
+display: inline;
+}
+
+nav a {
+float: left;
+}
+
+nav a {
+color:#880402;
+}
+
+nav a {
+padding: 12px 20px 0 20px;
+}
+
+nav a {
+height: 24px;
+}
+
+nav a {
+background: #FFF url("linkdivider.gif") no-repeat right top;
+}
+
+header {
+width: 902px;
+}
+
+header {
+height: 15em;
+}
+
+header {
+padding: 10px 10px 20px 10px;
+}
+
+header {
+background-color: #B6DACB;
+}
+
+header {
+color: #000;
+}
+
+#content {
+width: 100%;
+}
+
+
+#content {
+background-image: url("4columns.gif");
+}
+
+#content {
+padding-bottom: 1em;
+}
+
+#content {
+overflow: auto;
+}
+
+#content p {
+margin-bottom: .75em;
+}
+
+#content ul {
+padding: 0 20px 0 20px;
+}
+
+#col1, #col2, #col3, #col4 {
+margin: 10px 12px 10px 12px;
+}
+
+#col1, #col2, #col3, #col4 {
+padding: 0;
+}
+#col1, #col2, #col3, #col4 {
+width: 205px;
+}
+
+#col1, #col2, #col3, #col4 {
+float: left;
+}
+
+ul #col4 {
+padding-left: 0;
+}
+
+ul #col4 {
+margin-left: 0;
+}
+
+ul #col4 {
+width: 200px;
+}
+
+li #col4 {
+list-style-type: none;
+}
+
+li #col4 {
+margin: 0;
+}
+
+li #col4 {
+padding: .25em;
+}
+
+li #col4 {
+border-top: 1px solid #666;
+}
+
+footer {
+width: 902px;
+}
+
+footer {
+margin: 0;
+}
+
+footer {
+padding: 10px;
+}
+
+footer {
+border-top: 4px solid #366;
+}
+
+footer {
+font-size: 90%;
+}
+
+footer {
+background-color: #B6DACB;
+}
+
+footer {
+color: #000;
+}
+
+#imgleft {
+float: left;
+}
+
+#imgleft {
+padding: 10px;
+}
+
+#highlight {
+background-color: #FFF;
+}
+
+#highlight {
+color: #000;
+}
+
+nav .current, nav .current:hover {
+color: #FFF;
+}
+
+nav .current, nav .current:hover {
+	background: url("linkcurrent.gif");
+}
+
+nav .current, nav .current:hover {
+	background-repeat: no-repeat;
+}
+
+ /* visited link */
+a:visited {
+    color: #880402;
+}
+
+/* unvisited link */
+a:link {
+    color: #880402;
+}
+
+/* mouse over link */
+a:hover {
+    color: #00515C;
+}
+
+/* mouse over link */
+a nav: hover {
+    background: url("linkhover.gif");
+}
+
+/* mouse over link */
+a nav: hover {
+background-repeat: no-repeat;
+}
+
+
+
+

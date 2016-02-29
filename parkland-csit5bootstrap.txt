@@ -1,0 +1,102 @@
+<!DOCTYPE html >
+
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<title>Parkland College Computer Science and Information Technology</title>
+
+<link rel="stylesheet" type="text/css" href="style5bootstrap.css" />
+
+
+<!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+</head>
+
+<body>
+
+<div class="container-fluid containerWidth">
+<div class="row"
+<div class="container-fluid">
+<div class="banner-fluid"><img src="header.jpg" class="img-responsive" alt="responsive image" title="header" width="100% \9;" ></div>
+<div class="bgimage"><p>&nbsp;</p> </div>
+
+<nav class="navbar dropdown-fluid">
+<button type="button" class="btn btn-link"> Web Career Information</button>
+<button id="ParklandCSIT" type="button data-toggle="dropdown" class="btn btn-link"aria-haspopup="true" aria-expanded="true">ParklandCSIT<span class="caret"></span></button>
+<ul class="dropdown-menu" aria-labelledby="ParklandCSIT">
+	<li><a href="http://www.parkland.edu/Media/Website%20Resources/PDF/catalog/POS.pdf#nameddest=POS.indd:csit_as"> Computer Science</a></li>
+	<li><a href="http://www.csit.parkland.edu/ctc/"> CTC</a></li>
+	<li><a href="http://www.parkland.edu/academics/departments/csit/dataSysDevelopment.aspx"> Data Systems&Development</a></li>
+	<li><a href="http://www.parkland.edu/academics/departments/csit/digital.aspx"> Digital</a></li>
+	<li><a href="http://www.parkland.edu/academics/departments/csit/networking.aspx"> Networking</a></li>
+</ul>
+
+<button type="button" class="btn btn-link">Web Develpment</button>
+</div>
+
+
+<div class="header-fluid">
+
+
+<h1>Computer Science and Information Technology</h1>
+
+<p> <img src="bug.png" alt="big bug" title="big bug" class="imgleft" style="width:85px;height:85px;">Now is the time! Find out what Parkland College has to offer <span style="color: blue">if you are interested in learning skills</span> to become a web designer or web developer. Add to the technology skills that you already have <span style="color:blue">or change career paths</span> to enter the exciting field of technology. Being able to say that <span style="color:blue">you have web design skills can strengthen</span> your resume. Every business in the world has or wants to have a presence on the web. The job opportunties are out there. Get yourself ready for them!!</p>
+
+</div>
+
+<div id="content"> <!--start of content-->
+
+<div class="col-md-3 ltblueColumn">
+
+<h2>Changing Technology </h2>
+
+<p>Technology has changed rapidly in the past few years and so has the need for skilled workers in computer science and information technology (IT). Parkland's CSIT department keeps pace by continually updating and developing courses and programs based on input from businesses within the IT industry. That's why you can invest in training opportunities and explore up-to-date technology at Parkland College with confidence.</p>
+
+</div><!-- col-md-4 #1 end-->
+
+<div class="col-md-3 drkblueColumn">
+
+<h2><abbr title="Computer Science and Information Technology">CSIT</abbr> Course Offerings</h2>
+
+<p>Reward yourself with a profitable and challenging career as a 3D computer artist/animator,3D games/graphics developer, database manager, IT office professional, microcomputer support specialist, network administrator,   programmer, or website creator. Or update your IT skills and upgrade your marketability with coursework or certification in today's in-demand hardware and software technologies, including Microsoft Office 2007, Microsoft OS/Server/Client systems, PC hardware/maintenance, networking systems, SQL database applications, object-oriented programming languages, and web and digital media applications.</p>
+
+</div><!-- col-md-4 #2 end-->
+
+<div class="col-md-3 ltblueColumn">
+
+<h2>CIS 152 - Web Design I </h2>
+
+<p>Web Design I is the foundation course offered by the CSIT department for students who would like to learn how to create websites. It covers the basics of coding with HTML, XHTML and CSS. Coursework also includes how to meet accessibility requirements, use web-standards for coding and make web pages optimized for search engines. Dreamweaver, today's industry standard for web authoring software, is introduced during the last half of the course. A service-learning project is completed at the end of the semester to give students a real-life project to apply the concepts they have learned.</p>
+
+</div><!-- col-md-4 #3 end-->
+
+<div class="col-md-3 drkblueColumn">
+
+<h2>Interesting Links </h2>
+
+<ul>
+
+  <li><a href="http://www.parkland.edu/academics/departments/csit">CSIT Department at Parkland</a></li>
+  <li><a href="http://www2.parkland.edu/csit/pm/scholarships/index.html">CSIT Scholarships</a></li>
+  <li><a href="http://your.parkland.edu/about/directory/csit.aspx">CSIT Faculty/Staff Directory</a></li>
+  <li>&#160;</li>
+
+</ul>
+
+</div><!-- col-md-4 #4 end-->
+
+</div> <!--end of content-->
+
+<div class="footer-fluid">
+
+<p>Copyright &#169; 2016 Kherin V. Graves All Rights Reserved | Design by <a href="http://www.mitchinson.net"> www.mitchinson.net</a></p>
+
+</div>
+
+</div>  <!--end of container-->
+
+</body>
+</div>
+</html>
