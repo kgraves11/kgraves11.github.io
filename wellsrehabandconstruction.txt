@@ -19,7 +19,7 @@
 
 <div id="container"> <!--beginning of the container-->
 
-<h1><b> Wells Construction </b></h1>
+<h1><b> Wells Rehab and Construction </b></h1>
 
 <img src="logo.png" alt="Dreams">
 
