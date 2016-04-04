@@ -5,6 +5,9 @@ body {
 	background-repeat: repeat-y;
 }
 
+body {
+ background-color: #00e600;
+}
 
 h2 {
  background-color: green;
