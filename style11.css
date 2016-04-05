@@ -21,6 +21,10 @@ h3 {
 background-color: green;
 }
 
+footer {
+background-color: green;
+}
+
 h3 {
      border-style: double;
      border-color: white green;
@@ -35,6 +39,11 @@ h2 {
     border-style: double;
     border-color: white green;
 }
+
+footer {
+     border-style: double;
+     border-color: white green;
+ }
 
 // Activate Carousel
 $("#myCarousel").carousel();
