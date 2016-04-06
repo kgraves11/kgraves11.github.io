@@ -25,15 +25,15 @@
 
 <img src="kherinslogo.png" alt="webdesigner" class="img-responsive" >
 
-<p> Offering Responsive Websites</p>
+<h2> Offering Responsive Websites</h2>
 
-<p> Each site designed is responsive. Created to fit each type of screen you access the webpage on. Regardless whether it is mobile, desktop or a laptop you will only need one website to access the page instead of having one specifically for mobile.  </p>
+<h2> Each site designed is responsive. Created to fit each type of screen you access the webpage on. Regardless whether it is mobile, desktop or a laptop you will only need one website to access the page instead of having one specifically for mobile.  </h2>
 
-<p> Unique designs created by Kherin Graves</p>
+<h2> Unique designs created by Kherin Graves</p>
 
-<p> No templates or webpage building here. Each page created is Coded by Kherin Graves</p>
+<h2> No templates or webpage building here. Each page created is Coded by Kherin Graves</h2>
 
-<p> No monthly fees, only charged for services rendered</p>
+<h2> No monthly fees, only charged for services rendered</h2>
 
 
 	<p> Contact Kherin V. Graves @Kherinwells@yahoo.com</p>
