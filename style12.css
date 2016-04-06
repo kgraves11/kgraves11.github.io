@@ -1,21 +1,21 @@
 /*Kherin V. Graves*/
 
 
-body {
-    background-image: url("pic10.png");
-    background-repeat: no-repeat;
-}
 
 
-h1, h2 {
+h1 {
  Background-color: #ff0066;
 }
 
 footer {
- Background-color: pink;
+background-color: #ff0066;
 }
 
-*p {
- Background-color: pink;
+h3{
+ Background-color: #ff0066;
 }
+
+h2 {
+ Background-color: #ff0066;
 }
+
