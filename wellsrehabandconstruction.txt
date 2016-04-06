@@ -453,60 +453,6 @@ $(".left").click(function(){
 
 
 
-<html>
-<head>
-<style>
-div.img {
-     margin: 5px;
-    border: 1px solid #ccc;
-     float: left;
-     width: 180px;
- }
-
-div.img:hover {
-     border: 1px solid #777;
- }
-
-div.img img {
-     width: 100%;
-    height: auto;
- }
-
-div.desc {
-    padding: 15px;
-     text-align: center;
- }
-</style>
-</head>
-<body>
-
-<div class="img">
-  <a target="_blank" href="fjords.jpg">
-    <img src="pic10.jpg" alt="10" width="460" height="345">
-  </a>
-  <div class="desc">pic1</div>
-</div>
-
-<div class="img">
-  <a target="_blank" href="pic12.jpg">
-    <img src="pic12.jpg" alt="12" width="460" height="345">
-  </a>
-  <div class="desc">pic12</div>
-</div>
-
-<div class="img">
-  <a target="_blank" href="pic13.jpg">
-    <img src="pic13.jpg" alt="13" width="460" height="345">
-  </a>
-  <div class="desc">13</div>
-</div>
-
-<div class="img">
-  <a target="_blank" href="pic14.jpg">
-    <img src="pic14.jpg" alt="14" width="460" height="345">
-  </a>
-  <div class="desc">pic14</div>
-</div>
 
 
 
