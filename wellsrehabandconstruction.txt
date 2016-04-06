@@ -480,9 +480,34 @@ div.desc {
 </head>
 <body>
 
+<div class="img">
+  <a target="_blank" href="fjords.jpg">
+    <img src="pic10.jpg" alt="10" width="460" height="345">
+  </a>
+  <div class="desc">pic1</div>
+</div>
 
-</body>
-</html> 
+<div class="img">
+  <a target="_blank" href="pic12.jpg">
+    <img src="pic12.jpg" alt="12" width="460" height="345">
+  </a>
+  <div class="desc">pic12</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="pic13.jpg">
+    <img src="pic13.jpg" alt="13" width="460" height="345">
+  </a>
+  <div class="desc">13</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="pic14.jpg">
+    <img src="pic14.jpg" alt="14" width="460" height="345">
+  </a>
+  <div class="desc">pic14</div>
+</div>
+
 
 
 
