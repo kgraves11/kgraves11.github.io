@@ -347,7 +347,21 @@
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
-      ****
+      <div class="item active">
+        <img src="pic11.jpg" alt="11" width="460" height="345">
+      </div>
+
+      <div class="item">
+        <img src="pic12.jpg" alt="12" width="460" height="345">
+      </div>
+    
+      <div class="item">
+        <img src="pic13.jpg" alt="13" width="460" height="345">
+      </div>
+
+      <div class="item">
+        <img src="pic14.jpg" alt="14" width="460" height="345">
+      </div>
     </div>
 
     <!-- Left and right controls -->
@@ -450,32 +464,7 @@ div.desc {
 </head>
 <body>
 
-<div class="img">
-  <a target="_blank" href="fjords.jpg">
-    <img src="pic10.jpg" alt="10" width="200" height="150">
-  </a>
-  <div class="desc">pic1</div>
-</div>
 
-<div class="img">
-  <a target="_blank" href="pic12.jpg">
-    <img src="pic12.jpg" alt="12" width="200" height="150">
-  </a>
-  <div class="desc">pic12</div>
-</div>
-
-<div class="img">
-  <a target="_blank" href="pic13.jpg">
-    <img src="pic13.jpg" alt="13" width="200" height="150">
-  </a>
-  <div class="desc">13</div>
-</div>
-
-<div class="img">
-  <a target="_blank" href="pic14.jpg">
-    <img src="pic14.jpg" alt="14" width="200" height="150">
-  </a>
-  <div class="desc">pic14</div>
 </div>
 
 
