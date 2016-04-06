@@ -3,7 +3,7 @@
 
 body {
     background-image: url("pink.png");
-	background-repeat: repeat-x;
+    background-repeat: no-repeat;
 }
 
 
