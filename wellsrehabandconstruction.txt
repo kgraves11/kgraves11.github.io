@@ -502,7 +502,7 @@ div.desc {
 
 <footer>
 
-<p>Copyright &#169; 2016 Kherin V. Graves All Rights Reserved | Design by Kherin V. Graves</p>
+<p><a href="https://kgraves11.github.io/kheringraveswebdesign">Page 3</a>Copyright &#169; 2016 Kherin V. Graves All Rights Reserved | Design by Kherin V. Graves</p>
 
 </footer>
 
