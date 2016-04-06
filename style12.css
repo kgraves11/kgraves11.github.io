@@ -2,6 +2,10 @@
 
 
 
+body {
+    background-image: url("pic13.png");
+	background-repeat: repeat-y;
+}
 
 h1 {
  Background-color: #ff0066;
