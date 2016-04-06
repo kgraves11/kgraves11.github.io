@@ -23,14 +23,14 @@
 
 <img src="bannerlogo.png" alt="Dreams" class="img-responsive" >
 
-<h2><b> Need Repairs/Installs done on your home/property? </b></h2>
-	<p>Call 217-521-4872 Kennth&Suprina Wells and Company would be Delighted to assist you</p>
+<h2><b> Do you Own a Home and Need Repairs/Installs/Remodeling done on your home/commercial property? </b></h2>
+	<p>Call 217-521-4872 Kennth&Suprina Wells and Company would be delighted to assist you</p>
 
 <h1><b>What kind of Business is this?</b></h1>
 	<p>We are a Construction business that offers professional home improvement work that we know our customers will be proud to brag about. Various Homeowners have trusted Wells Rehab and Construction to provide them with quality work and expertise advising to turn their home improvement dreams into reality.</p>
 
-<h1>So you want to know what kind of work do we offer huh?</h1>
-	<p> Wells Rehab and Construction business is a jack of all trades. We have various areas of work that we provide to homeowners. Down Below you will see a list of work that we mainly do but is not limited to.</p>
+<h1>So you want to know what kind of work do we offer right?</h1>
+	<p> Wells Rehab and Construction is a business that specializes in remodeling commercial and residential properties. We have various areas of work that specialize in and provide to homeowners. Down Below you will see a list of work that we specialize in.</p>
 
 <h2>Plaster & Drywall</h2>
 <ul>
