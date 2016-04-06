@@ -13,8 +13,9 @@ h1, h2 {
 
 footer {
  Background-color: pink;
+}
 
-h2 {
+*p {
  Background-color: pink;
 }
 }
