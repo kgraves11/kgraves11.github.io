@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <title>WELLS REHAB AND CONSTRUCTION</title>
 
-<link rel="stylesheet" href="style11.css">
+<link rel="stylesheet" href="style12.css">
 
 
 <!--[if lt IE 9]>
@@ -23,7 +23,7 @@
 
 <p> Contact Kherin Graves via email: kherinwells@yahoo.com, or telephone 2175217337</p>
 
-<img src="bannerlogo.png" alt="Dreams" class="img-responsive" >
+<img src="kherinslogo.png" alt="webdesigner" class="img-responsive" >
 
 <p> Offering Responsive Websites</p>
 
@@ -35,7 +35,7 @@
 
 <p> No monthly fees, only charged for services rendered</p>
 
-<
+
 	<p> Contact Kherin V. Graves @Kherinwells@yahoo.com</p>
 
 
