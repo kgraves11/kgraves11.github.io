@@ -45,6 +45,12 @@ footer {
      border-color: white green;
  }
 
+.img {
+     border-style: double;
+     border-color: white green;
+ }
+
+
 // Activate Carousel
 $("#myCarousel").carousel();
 
