@@ -19,11 +19,11 @@
 
 <div id="container"> <!--beginning of the container-->
 
-<h1><b> Need a webpage designed and created for your business, church or simply just personal use?</b></h1>
+<h1><b> Need a webpage designed and created for your business, church or personal interest?</b></h1>
 
 <h3><b> Contact Kherin Graves via email: kherinwells@yahoo.com, or telephone 2175217337</b></h3>
 
-<img src="kherinslogo.png" alt="webdesigner" class="img-responsive" >
+<p><img src="kherinslogo.png" alt="webdesigner" class="img-responsive" ></p>
 
 <h2><b> Offering Responsive Websites</b></h2>
 
