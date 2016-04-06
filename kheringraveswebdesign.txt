@@ -24,7 +24,7 @@
 <h3><b> Contact Kherin Graves via email: kherinwells@yahoo.com, or telephone 2175217337</b></h3>
 
 <p><img src="logopro.png" alt="webdesigner" class="img-responsive" ></p>
-
+<img class="img-responsive">
 <h2><b> Offering Responsive Websites</b></h2>
 
 <h2><b> Each site designed is responsive. Created to fit each type of screen you access the webpage on. Regardless whether it is mobile, desktop or a laptop you will only need one website to access the page instead of having one specifically for mobile. </b> </h2>
