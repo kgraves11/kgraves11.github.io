@@ -2,20 +2,24 @@
 
 
 body {
-    background-image: url("pic10.png");
-    background-repeat: no-repeat;
+    background-image: url("bgpic.png");
+    background-repeat: repeat-y;
 }
 
 
-h1, h2 {
+h1, h2, h3, footer {
  Background-color: #ff0066;
 }
 
 footer {
- Background-color: pink;
+background-color: #ff0066;
 }
 
-*p {
- Background-color: pink;
+h3{
+ Background-color: #ff0066;
 }
+
+h2 {
+ Background-color: #ff0066;
 }
+
