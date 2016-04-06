@@ -370,7 +370,9 @@ div.desc {
 
 
 
-<img src="back1.png" alt="back" class="img-responsive" > <img src="home1.png" alt="home" class="img-responsive" > <img src="next1.png" alt="next" class="img-responsive" >
+<p><a href="https://kgraves11.github.io/wellsrehabandconstruction"><img src="back1.png" alt="back" class="img-responsive" ></p>
+<p><a href="https://kgraves11.github.io/wellsrehabandconstruction"> <img src="home1.png" alt="home" class="img-responsive" ></p>
+<p><a href=""> <img src="next1.png" alt="next" class="img-responsive" ></p>
   </style>
 </head>
 <body>
