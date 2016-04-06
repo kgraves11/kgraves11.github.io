@@ -22,3 +22,30 @@ h2 {
  Background-color: #ff0066;
 }
 
+
+
+h3 {
+     border-style: double;
+     border-color: white pink;
+ }
+
+h1 {
+     border-style: double;
+     border-color: white pink;
+ }
+
+h2 {
+    border-style: double;
+    border-color: white pink;
+}
+
+footer {
+     border-style: double;
+     border-color: white pink;
+ }
+
+.img {
+     border-style: double;
+     border-color: white pink;
+ }
+
