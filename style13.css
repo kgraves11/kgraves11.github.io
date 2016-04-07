@@ -1,0 +1,53 @@
+/*Kherin V. Graves*/
+
+
+
+body {
+    background-image: url("bpc.jpg");
+}
+
+
+h1 {
+ Background-color: #990033;
+}
+
+footer {
+background-color: #990033;
+}
+
+h3{
+ Background-color: #990033;
+}
+
+h2 {
+ Background-color: #990033;
+}
+
+
+
+h3 {
+     border-style: double;
+     border-color: white pink;
+ }
+
+h1 {
+     border-style: double;
+     border-color: white pink;
+ }
+
+h2 {
+    border-style: double;
+    border-color: white pink;
+}
+
+footer {
+     border-style: double;
+     border-color: white pink;
+ }
+
+.img {
+     border-style: double;
+     border-color: white pink;
+ }
+
+.img-responsive
